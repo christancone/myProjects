@@ -11,7 +11,7 @@ Cumulative GPA: 3.6
 
 ## Projects
 
-### [TinyToes - Childcare Management System](https://github.com/christancone/project1) - Ongoing
+### [TinyToes - Childcare Management System](https://github.com/christancone/project1) - <span style="color: red;">Ongoing</span>
 - **Description**: TinyToes is a comprehensive web application designed to revolutionize childcare management by providing daycare businesses with tools to efficiently manage operations and offer parents real-time updates on their child's activities and well-being.
 - **Technologies Used**: React JS, Vite, Material UI, Tailwind CSS
 - **Role**: Developed key features such as employee management, real-time updates for parents, and secure parent-caretaker communication.
