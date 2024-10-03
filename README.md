@@ -11,6 +11,12 @@ Cumulative GPA: 3.6
 
 ## Projects
 
+### [TinyToes - Childcare Management System](https://github.com/christancone/project1) - Ongoing
+- **Description**: TinyToes is a comprehensive web application designed to revolutionize childcare management by providing daycare businesses with tools to efficiently manage operations and offer parents real-time updates on their child's activities and well-being.
+- **Technologies Used**: React JS, Vite, Material UI, Tailwind CSS
+- **Role**: Developed key features such as employee management, real-time updates for parents, and secure parent-caretaker communication.
+- **Outcome**: Improved daycare management by offering real-time child status updates, efficient billing, and secure communication between parents and caregivers.
+
 ### [EpicReads - Bookstore Management System](https://github.com/christancone/EpicReads)
 - **Description**: Developed a comprehensive bookstore management system that handles inventory, customer orders, and sales tracking.
 - **Technologies Used**: Java, JSP, MySQL, HTML, CSS, Bootstrap
@@ -22,12 +28,6 @@ Cumulative GPA: 3.6
 - **Technologies Used**: HTML, CSS, JavaScript (Frontend), PHP (Backend), MySQL (Database)
 - **Role**: Developed both admin and pharmacist functionalities, including inventory control, real-time stock monitoring, and notifications for low-stock items.
 - **Outcome**: Enhanced pharmacy inventory management by providing real-time stock tracking and ensuring timely restocking of low-inventory items.
-
-### [TinyToes - Childcare Management System](https://github.com/christancone/project1)
-- **Description**: TinyToes is a comprehensive web application designed to revolutionize childcare management by providing daycare businesses with tools to efficiently manage operations and offer parents real-time updates on their child's activities and well-being.
-- **Technologies Used**: React JS, Vite, Material UI, Tailwind CSS
-- **Role**: Developed key features such as employee management, real-time updates for parents, and secure parent-caretaker communication.
-- **Outcome**: Improved daycare management by offering real-time child status updates, efficient billing, and secure communication between parents and caregivers.
 
 ### [DomainLK - A Minimalistic Redesign](https://github.com/christancone/domainTest)
 - **Description**: A minimalistic redesign of the website [domains.lk](https://www.domains.lk/) aimed at increasing search engine visibility and improving mobile device compatibility.
