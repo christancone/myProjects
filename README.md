@@ -11,7 +11,7 @@ Cumulative GPA: 3.6
 
 ## Projects
 
-### EpicBooks - Bookstore Management System
+### EpicReads - Bookstore Management System
 - **Description**: Developed a comprehensive bookstore management system that handles inventory, customer orders, and sales tracking.
 - **Technologies Used**: Java, JSP, MySQL, HTML, CSS
 - **Role**: Designed the database schema, implemented core features like user authentication, order management, and inventory updates. Utilized JSP for server-side logic and MySQL for data storage.
