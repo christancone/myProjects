@@ -1,62 +1,132 @@
-# My Projects
 
-
-## About Me
-I'm Rajakone Christan, currently pursuing my undergraduate studies at Uva Wellasa University. I have a keen interest in data science and am actively building my career in this field.
-
-Cumulative GPA: 3.72
-  
 ---
 
+# 📂 My Projects
 
-## Projects
+## 👨‍💻 About Me
+I'm **Rajakone Christan**, currently pursuing my undergraduate studies at **Uva Wellasa University**.  
+I have a **keen interest in data science** and am actively building my career in this field.
 
-### [TinyToes - Childcare Management System](https://github.com/christancone/project1) - ![Ongoing](https://img.shields.io/badge/Project-Ongoing-brightyellow)
+🎓 **Cumulative GPA**: `3.72`
 
-- **Description**: TinyToes is a comprehensive web application designed to revolutionize childcare management by providing daycare businesses with tools to efficiently manage operations and offer parents real-time updates on their child's activities and well-being.
-- **Technologies Used**: React JS, Vite, Material UI, Tailwind CSS
-- **Role**: Developed key features such as employee management, real-time updates for parents, and secure parent-caretaker communication.
-- **Outcome**: Improved daycare management by offering real-time child status updates, efficient billing, and secure communication between parents and caregivers.
+---
 
-### [BestBid Auction Site](https://github.com/christancone/AuctionSite)
+## 🚀 Featured Projects
 
-- **Description**: BestBid is a web application that facilitates online auctions. Auction hosts can create listings for items, and users can place bids in real-time. The platform ensures a smooth bidding experience with live updates and an intuitive interface.
-- **Technologies Used**: Django (Backend), React, Tailwind CSS (Frontend), PostgreSQL (Database)
-- **Role**: Developed both the backend and frontend of the application. Implemented core functionalities such as user authentication, real-time bidding, auction listing creation, and bid history tracking. Designed responsive UI with Tailwind CSS and managed relational data using PostgreSQL.
-- **Outcome**: Delivered a fully functional online auction platform with real-time features, enabling users to host and participate in auctions seamlessly. The system ensures transparency and fairness in bidding processes.  
-  ▶️ [Demo Video](https://www.youtube.com/watch?v=pCmhMT8fOmU)
+---
 
+### 🍼 [TinyToes - Childcare Management System](https://github.com/christancone/project1)  
+![Ongoing](https://img.shields.io/badge/Project-Ongoing-brightyellow)
 
-### [EpicReads - Bookstore Management System](https://github.com/christancone/EpicReads)
-- **Description**: Developed a comprehensive bookstore management system that handles inventory, customer orders, and sales tracking.
-- **Technologies Used**: Java, JSP, MySQL, HTML, CSS, Bootstrap
-- **Role**: Designed the database schema, implemented core features like user authentication, order management, and inventory updates. Utilized JSP for server-side logic and MySQL for data storage.
-- **Outcome**: Streamlined the management of books and orders for bookstore admins, while also providing a seamless shopping experience for users.
-  <br/>
-  ▶️ [Demo Video](https://www.youtube.com/watch?v=59v-Nk8jbLw)
+**Description:**  
+A comprehensive web app designed to **revolutionize childcare management**, offering daycare businesses tools to efficiently manage operations and provide parents real-time updates.
 
-### [Renew - Pharmacy Inventory Management System](https://github.com/christancone/Renew)
-- **Description**: A web-based application designed to streamline the management of pharmaceutical inventories, with two user roles: Admin and Pharmacist.
-- **Technologies Used**: HTML, CSS, JavaScript (Frontend), PHP (Backend), MySQL (Database)
-- **Role**: Developed both admin and pharmacist functionalities, including inventory control, real-time stock monitoring, and notifications for low-stock items.
-- **Outcome**: Enhanced pharmacy inventory management by providing real-time stock tracking and ensuring timely restocking of low-inventory items. <br/>
-  ▶️ [Demo Video](https://www.youtube.com/watch?v=JnBmRnVRdno)
+#### ⚙️ Technologies Used  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite) ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
 
-### [Email Signature Generator](https://www.simpleemailsignature.com/)
-- **Description**: Developed an intuitive web application that allows users to create and customize professional email signatures with multiple templates. Users can input their details, preview the signature in real-time, and easily copy or download the final design.
-- **Technologies Used**: Next.js, React, TypeScript, Tailwind CSS, Supabase (Database & Storage)
-- **Role**: Designed and implemented the core features including dynamic form inputs, live signature preview, and user data management. Integrated Supabase for storing user information and uploading profile pictures to Supabase Storage. Ensured mobile responsiveness and optimized user experience with a clean UI.
-- **Outcome**: Provided users with a seamless and free tool to generate professional email signatures without requiring login or sign-up. Successfully stored user data and image uploads for analytics and future customization. <br/>
-  🌐 [Live Demo](https://www.simpleemailsignature.com/)
+#### 👨‍💻 Role  
+- Developed key features: employee management, real-time updates, secure communication.
 
+#### ✅ Outcome  
+- Improved daycare management with **real-time child status updates**, **efficient billing**, and **secure communication** between parents and caregivers.
 
-### [DomainLK - A Minimalistic Redesign](https://github.com/christancone/domainTest)
-- **Description**: A minimalistic redesign of the website [domains.lk](https://www.domains.lk/) aimed at increasing search engine visibility and improving mobile device compatibility.
-- **Technologies Used**: React.js, TailwindCSS
-- **Role**: Recreated the website without relying on third-party libraries, focusing on user experience and accessibility.
-- **Outcome**: Improved search engine visibility and provided a mobile-friendly interface for a better browsing experience. <br/>
+---
+
+### 💰 [BestBid Auction Site](https://github.com/christancone/AuctionSite)
+
+**Description:**  
+A real-time **online auction** platform where users can create listings and place bids live.
+
+#### ⚙️ Technologies Used  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+#### 👨‍💻 Role  
+- Full-stack development (Frontend & Backend).  
+- Implemented **real-time bidding**, user authentication, auction management.
+
+#### ✅ Outcome  
+- Delivered a fully functional, **real-time auction platform** ensuring transparency and fairness.  
+▶️ [Watch Demo](https://www.youtube.com/watch?v=pCmhMT8fOmU)
+
+---
+
+### 📚 [EpicReads - Bookstore Management System](https://github.com/christancone/EpicReads)
+
+**Description:**  
+A **comprehensive bookstore system** managing inventory, customer orders, and sales.
+
+#### ⚙️ Technologies Used  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java) ![JSP](https://img.shields.io/badge/JSP-FF1709?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+
+#### 👨‍💻 Role  
+- Designed database schema.  
+- Implemented user authentication, order & inventory management.  
+- Developed responsive UI with **Bootstrap**.
+
+#### ✅ Outcome  
+- Streamlined bookstore admin tasks.  
+- Delivered a **seamless shopping experience** for users.  
+▶️ [Watch Demo](https://www.youtube.com/watch?v=59v-Nk8jbLw)
+
+---
+
+### 💊 [Renew - Pharmacy Inventory Management System](https://github.com/christancone/Renew)
+
+**Description:**  
+A web-based app designed for **pharmaceutical inventory management**, with Admin & Pharmacist roles.
+
+#### ⚙️ Technologies Used  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+#### 👨‍💻 Role  
+- Developed inventory control & low-stock notifications.  
+- Created Admin & Pharmacist dashboards.
+
+#### ✅ Outcome  
+- Provided **real-time stock tracking**.  
+- Enhanced timely restocking of items.  
+▶️ [Watch Demo](https://www.youtube.com/watch?v=JnBmRnVRdno)
+
+---
+
+### ✉️ [Email Signature Generator](https://www.simpleemailsignature.com/)
+
+**Description:**  
+A **no-login** tool that lets users create **professional email signatures** with live previews and customizable templates.
+
+#### ⚙️ Technologies Used  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+
+#### 👨‍💻 Role  
+- Built **dynamic form inputs** & live signature preview.  
+- Integrated Supabase for **user data storage** and **profile image uploads**.  
+- Mobile-friendly UI with optimized UX.
+
+#### ✅ Outcome  
+- Offered a **free**, **user-friendly** tool with no sign-up.  
+- Successfully stored user data for future analytics.  
+🌐 [Live Demo](https://www.simpleemailsignature.com/)
+
+---
+
+### 🌐 [DomainLK - A Minimalistic Redesign](https://github.com/christancone/domainTest)
+
+**Description:**  
+A minimalistic **SEO-focused redesign** of [domains.lk](https://www.domains.lk/), with mobile-first UI.
+
+#### ⚙️ Technologies Used  
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css)
+
+#### 👨‍💻 Role  
+- Rebuilt website from scratch (no 3rd party libraries).  
+- Focused on **UX** and **accessibility**.
+
+#### ✅ Outcome  
+- Boosted **SEO** and mobile compatibility.  
 🌐 [Live Demo](https://domain-test-vii5.vercel.app/)
+
 ---
 
-## Download my resume [here](https://github.com/christancone/myProjects/blob/main/Christan-resume.pdf)
+## 📄 [Download My Resume](https://github.com/christancone/myProjects/blob/main/Christan-resume.pdf)
 
+---
