@@ -35,7 +35,7 @@ A comprehensive web app designed to **revolutionize childcare management**, offe
 ### 💰 [BestBid Auction Site](https://github.com/christancone/AuctionSite)
 
 **Description:**  
-A real-time **online auction** platform where users can create listings and place bids live.
+A real-time **online auction** platform where auction hosts can create listings and users place bids live.
 
 #### ⚙️ Technologies Used  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
