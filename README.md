@@ -24,7 +24,7 @@ Cumulative GPA: 3.72
 - **Technologies Used**: Django (Backend), React, Tailwind CSS (Frontend), PostgreSQL (Database)
 - **Role**: Developed both the backend and frontend of the application. Implemented core functionalities such as user authentication, real-time bidding, auction listing creation, and bid history tracking. Designed responsive UI with Tailwind CSS and managed relational data using PostgreSQL.
 - **Outcome**: Delivered a fully functional online auction platform with real-time features, enabling users to host and participate in auctions seamlessly. The system ensures transparency and fairness in bidding processes.  
-  ▶️ [Live Demo](https://www.youtube.com/watch?v=pCmhMT8fOmU)
+  ▶️ [Demo Video](https://www.youtube.com/watch?v=pCmhMT8fOmU)
 
 
 ### [EpicReads - Bookstore Management System](https://github.com/christancone/EpicReads)
@@ -32,26 +32,30 @@ Cumulative GPA: 3.72
 - **Technologies Used**: Java, JSP, MySQL, HTML, CSS, Bootstrap
 - **Role**: Designed the database schema, implemented core features like user authentication, order management, and inventory updates. Utilized JSP for server-side logic and MySQL for data storage.
 - **Outcome**: Streamlined the management of books and orders for bookstore admins, while also providing a seamless shopping experience for users.
+  <br/>
+  ▶️ [Demo Video](https://www.youtube.com/watch?v=59v-Nk8jbLw)
 
 ### [Renew - Pharmacy Inventory Management System](https://github.com/christancone/Renew)
 - **Description**: A web-based application designed to streamline the management of pharmaceutical inventories, with two user roles: Admin and Pharmacist.
 - **Technologies Used**: HTML, CSS, JavaScript (Frontend), PHP (Backend), MySQL (Database)
 - **Role**: Developed both admin and pharmacist functionalities, including inventory control, real-time stock monitoring, and notifications for low-stock items.
-- **Outcome**: Enhanced pharmacy inventory management by providing real-time stock tracking and ensuring timely restocking of low-inventory items.
+- **Outcome**: Enhanced pharmacy inventory management by providing real-time stock tracking and ensuring timely restocking of low-inventory items. <br/>
+  ▶️ [Demo Video](https://www.youtube.com/watch?v=JnBmRnVRdno)
 
 ### [Email Signature Generator](https://www.simpleemailsignature.com/)
 - **Description**: Developed an intuitive web application that allows users to create and customize professional email signatures with multiple templates. Users can input their details, preview the signature in real-time, and easily copy or download the final design.
 - **Technologies Used**: Next.js, React, TypeScript, Tailwind CSS, Supabase (Database & Storage)
 - **Role**: Designed and implemented the core features including dynamic form inputs, live signature preview, and user data management. Integrated Supabase for storing user information and uploading profile pictures to Supabase Storage. Ensured mobile responsiveness and optimized user experience with a clean UI.
-- **Outcome**: Provided users with a seamless and free tool to generate professional email signatures without requiring login or sign-up. Successfully stored user data and image uploads for analytics and future customization.
+- **Outcome**: Provided users with a seamless and free tool to generate professional email signatures without requiring login or sign-up. Successfully stored user data and image uploads for analytics and future customization. <br/>
+  🌐 [Live Demo](https://www.simpleemailsignature.com/)
 
 
 ### [DomainLK - A Minimalistic Redesign](https://github.com/christancone/domainTest)
 - **Description**: A minimalistic redesign of the website [domains.lk](https://www.domains.lk/) aimed at increasing search engine visibility and improving mobile device compatibility.
 - **Technologies Used**: React.js, TailwindCSS
 - **Role**: Recreated the website without relying on third-party libraries, focusing on user experience and accessibility.
-- **Outcome**: Improved search engine visibility and provided a mobile-friendly interface for a better browsing experience.
-
+- **Outcome**: Improved search engine visibility and provided a mobile-friendly interface for a better browsing experience. <br/>
+🌐 [Live Demo](https://domain-test-vii5.vercel.app/)
 ---
 
 ## Download my resume [here](https://github.com/christancone/myProjects/blob/main/Christan-resume.pdf)
