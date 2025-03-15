@@ -4,7 +4,7 @@
 ## About Me
 I'm Rajakone Christan, currently pursuing my undergraduate studies at Uva Wellasa University. I have a keen interest in data science and am actively building my career in this field.
 
-Cumulative GPA: 3.6  
+Cumulative GPA: 3.72
   
 ---
 
