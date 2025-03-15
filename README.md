@@ -16,7 +16,6 @@ I have a **keen interest in data science** and am actively building my career in
 ---
 
 ### 🍼 [TinyToes - Childcare Management System](https://github.com/christancone/project1)  
-![Ongoing](https://img.shields.io/badge/Project-Ongoing-brightyellow)
 
 **Description:**  
 A comprehensive web app designed to **revolutionize childcare management**, offering daycare businesses tools to efficiently manage operations and provide parents real-time updates.
@@ -28,7 +27,8 @@ A comprehensive web app designed to **revolutionize childcare management**, offe
 - Developed key features: employee management, real-time updates, secure communication.
 
 #### ✅ Outcome  
-- Improved daycare management with **real-time child status updates**, **efficient billing**, and **secure communication** between parents and caregivers.
+- Improved daycare management with **real-time child status updates**, **efficient billing**, and **secure communication** between parents and caregivers. <br/>
+  ▶️ [Watch Demo](https://www.youtube.com/watch?v=hWbEa2_tLuM)
 
 ---
 
