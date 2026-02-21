@@ -378,7 +378,7 @@ React.js Tailwind CSS
 
 ---
 
-## 📄 [Download My Resume](https://github.com/christancone/myProjects/blob/main/Christan-resume.pdf)
+## 📄 [Download My Resume](https://github.com/christancone/myProjects/blob/main/resume.pdf)
 
 ---
 
