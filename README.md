@@ -1,5 +1,3 @@
----
-
 # 📂 My Projects
 
 ## 👨‍💻 About Me
